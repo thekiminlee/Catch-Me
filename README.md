@@ -6,7 +6,7 @@
 
 Catch Me:
   
-Simple ball catching game.
+Simple ball catching game for Android mobile phones.
 
 When the user touches the start screen, game starts right away.
 
@@ -24,7 +24,7 @@ INCLUDED IN THE SRC FOLDER: packages
      
   Scene
   
-    Includes the stage.
+    Includes the game stage.
     
     Updates the level and score on the screen. (Not implemented yet)
     
